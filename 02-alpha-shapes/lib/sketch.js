@@ -7,7 +7,8 @@ function setup() {
 function draw() {
     // put drawing code here
     // background(Math.floor(Math.random() * 256), Math.floor(Math.random() * 256), Math.floor(Math.random() * 256));
-    background(120, 120, 120);
+    frameRate(1);
+    background(Math.floor(Math.random() * 256), Math.floor(Math.random() * 256), Math.floor(Math.random() * 256));
     // Letter D
     const DxStart = width / 4;
     const DyStart = height / 4;
