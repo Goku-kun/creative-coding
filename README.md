@@ -1,2 +1,2 @@
 # creative-coding
-This repository contains all the creative art generating using code!
+This repository contains all the creative art generated using code!
